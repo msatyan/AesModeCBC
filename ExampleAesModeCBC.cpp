@@ -111,9 +111,9 @@ void MyPrintBinData(const unsigned char *BinData, size_t len)
 
 /*
 Output:
-0AFCA133 80237866 28185790 1C85E23E BB8C4C11 E50E75D9 A9E9B41D 04754266 2AEC907C 956F9022 E90C8CD1 F8E2C12F E3D1EEFB 8D303DE0 05560028 A9F21E9B 26C246
+543806AC 6BF0CF8E 445C2034 D529842C 1F6137E9 55B23612 90BC4B3D 1AEB3275 7B2E530F E15963A1 CF406EC2 A0124D67 3AD15780 9B10F17E DBF6DE52 9B030B66 23F155B8 A212891D 6E2D3315 004DB79C
 
- Original  : [We will send this message for encryption and then try decrypt too!.]
- Decrypted : [We will send this message for encryption and then try decrypt too!.]
- Total data length = 67, Number of AES Blocks = 4, Bytes in Partial Block = 3
+Original :[We will send this message for encryption and then try decrypt too!.]
+Decrypted:[We will send this message for encryption and then try decrypt too!.]
+Total data length = 67,   Number of AES Blocks = 4,   Bytes in Partial Block = 3
 */
